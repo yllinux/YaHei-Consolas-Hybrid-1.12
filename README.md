@@ -9,7 +9,8 @@ a font for developers that correctly displays Asian characters when mixed with L
 ## 一键安装
 
 ```
-wget -qO- https://raw.githubusercontent.com/yakumioto/YaHei-Consolas-Hybrid-1.12/master/install.sh | sudo sh
+//wget -qO- https://raw.githubusercontent.com/yakumioto/YaHei-Consolas-Hybrid-1.12/master/install.sh | sudo sh
+wget  https://raw.githubusercontent.com/yakumioto/YaHei-Consolas-Hybrid-1.12/master/install.sh | sudo sh
 ```
 
 ## 安装
