@@ -10,7 +10,7 @@ a font for developers that correctly displays Asian characters when mixed with L
 
 ```
 //wget -qO- https://raw.githubusercontent.com/yakumioto/YaHei-Consolas-Hybrid-1.12/master/install.sh | sudo sh
-wget  https://raw.githubusercontent.com/yakumioto/YaHei-Consolas-Hybrid-1.12/master/install.sh | sudo sh
+wget  https://raw.githubusercontent.com/yakumioto/YaHei-Consolas-Hybrid-1.12/master/install.sh && sudo sh install.sh
 ```
 
 ## 安装
